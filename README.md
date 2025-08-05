@@ -65,5 +65,34 @@ This project demonstrates the **complete ASIC backend flow** for a standard-cell
 ├── Images/                   # Diagrams, flow chart, layout screenshots
 └── README.md                 # This file
 
+## 🧰 Tools Used
+
+| Tool                | Purpose                        |
+|---------------------|--------------------------------|
+| VCS                 | RTL simulation                 |
+| Design Compiler     | RTL Synthesis                  |
+| IC Compiler II      | Floorplan to GDSII             |
+| PrimeTime           | Static Timing Analysis         |
+          
+
+## 📷 Sample Screenshots
+refer to attached files
+
+## 📫 Connect with Me
+
+- 📧 Email: karanambhavana275@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhavanakaranam-ece/)
+- 🌐 [GitHub](https://github.com/bhavana-vlsi)
+
+## 🏷️ Tags
+
+`ASIC` `VLSI` `RTL Design` `8-bit Adder` `Synopsys Tools` `Physical Design` `RTL to GDSII`
+
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="60"/> 
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60"/> 
+
+
+
+
 
 
