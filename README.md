@@ -13,9 +13,7 @@
 
 This project demonstrates the **complete ASIC backend flow** for a standard-cell-based 8-bit Adder/Subtractor. It is implemented using industry-standard **Synopsys tools** from RTL to GDSII.
 
-<p align="center">
-  <img src="Images/RTL_to_GDS_flow.png" alt="RTL to GDSII Flow" width="600"/>
-</p>
+
 
 ---
 
