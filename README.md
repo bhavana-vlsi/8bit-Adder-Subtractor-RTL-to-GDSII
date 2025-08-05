@@ -88,8 +88,7 @@ refer to attached files
 
 `ASIC` `VLSI` `RTL Design` `8-bit Adder` `Synopsys Tools` `Physical Design` `RTL to GDSII`
 
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="60"/> 
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60"/> 
+
 
 
 
